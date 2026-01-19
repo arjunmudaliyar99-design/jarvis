@@ -1,0 +1,9 @@
+customtkinter
+SpeechRecognition
+pyttsx3
+deep-translator
+langdetect
+pyautogui
+google-generativeai
+gtts
+pygame
